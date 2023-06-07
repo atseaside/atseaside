@@ -1,11 +1,11 @@
 
 <!-- 标题 + 个人描述, emoji 取自: http://emojihomepage.com -->
-<p align="center">
+<div align="center">
   <h1 height="200px" align="center">
-    Hi 👋, I'm sjingyao
+    Hi 👋, I'm atseaside
   </h1>
    <p align="center">I'm a Front End Developer 👨‍💻</p>
-</p>
+</div>
 
 <!-- 
   技术栈标签, 小标签来自: https://shields.io/
@@ -13,18 +13,20 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 <div>
-  <h2 align="center">My technology stack</h2>
+  <p align="center">My technology stack</p>
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000">
     <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=fff">
     <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=fff">
+    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux">
+    <img src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=antdesign">
     <img src="https://img.shields.io/badge/-MobX-FF9955?style=flat&logo=MobX&logoColor=fff">
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=fff">
-    <img src="https://img.shields.io/badge/-Express.js-ffffff?style=flat&logo=express&logoColor=000">
   </div>
   <div align="center">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=fff">
+    <img src="https://img.shields.io/badge/-Express.js-ffffff?style=flat&logo=express&logoColor=000">
     <img src="https://img.shields.io/badge/-WebGL-990000?style=flat&logo=WebGL">
     <img src="https://img.shields.io/badge/-WebGPU-005a9c?style=flat">
     <img src="https://img.shields.io/badge/-Three.js-000?style=flat&logo=Three.js">
