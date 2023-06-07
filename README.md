@@ -48,13 +48,13 @@
 ### My Social accounts
 ![image](https://github.com/atseaside/atseaside/assets/48472975/d23c0873-3f41-49c3-97c4-d65ce1e6913b) [掘金](https://juejin.cn/user/3491704662407864)
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=atseaside&show_icons=true&bg_color=30,00b5cc,1e8bc3&title_color=fff&text_color=fff" />
+      <img src="https://github-readme-stats.vercel.app/api?username=atseaside&show_icons=true&bg_color=65,000,0f9b0f&title_color=fff&text_color=fff" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atseaside&hide_progress=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atseaside&layout=compact" />
     </td>
   </tr>
 </table>
