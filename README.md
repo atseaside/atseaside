@@ -17,7 +17,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
-    <img src="https://img.shields.io/badge/-JavaScript-fff?style=flat&logo=javascript">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000">
     <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=fff">
     <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=fff">
     <img src="https://img.shields.io/badge/-MobX-FF9955?style=flat&logo=MobX&logoColor=fff">
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/-PWA-5A0FC8?style=flat&logo=pwa">
   </div>
   <div align="center">
-    <img src="https://img.shields.io/badge/-npm-fff?style=flat&logo=npm">
+    <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=fff">
     <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=fff">
     <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
     <img src="https://img.shields.io/badge/-Webpack-2C3A42?style=flat&logo=webpack">
