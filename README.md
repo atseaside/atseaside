@@ -13,7 +13,7 @@
   2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
 <div>
-  <h3>My technology stack</h3>
+  <h2 align="center">My technology stack</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
