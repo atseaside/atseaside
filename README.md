@@ -51,7 +51,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=atseaside&show_icons=true&bg_color=80,2376DD,FFCF71,606368&title_color=fff&text_color=fff" />
+      <img src="https://github-readme-stats.vercel.app/api?username=atseaside&show_icons=true&bg_color=60,2376DD,FFCF71,606368&title_color=fff&text_color=fff" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atseaside&layout=compact" />
