@@ -15,14 +15,14 @@
 <div>
   <p align="center">My technology stack</p>
   <div align="center">
-    <img src="https://img.shields.io/badge/-HTML5-fff?style=flat&logo=html5">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff">
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000">
     <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=fff">
     <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=fff">
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux">
-    <img src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=antdesign">
     <img src="https://img.shields.io/badge/-MobX-FF9955?style=flat&logo=MobX&logoColor=fff">
+    <img src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat&logo=antdesign">
   </div>
   <div align="center">
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=fff">
